@@ -16,6 +16,7 @@ Modovani Viber sa naprednim opcijama koje podrazumevaju sledeće stvari:
 16. Mogućnost da vidite bilo čiji broj! (ovo je poprilično broken i ne radi uvek)
 17. Mogućnost da uživate u Viberu bez reklama!
 18. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
-19. Očekujte još boja u kao i još novih funkcija u budućnosti ;) 🔜🔛🔝🟠🟡🟢🔵🟣🟤
+
+Očekujte još boja u kao i još novih funkcija u budućnosti ;) 🔜🔛🔝🟠🟡🟢🔵🟣🟤
 
 Verzija aplikacije: 18.1.1.0
