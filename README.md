@@ -1,4 +1,4 @@
-Hakovani modovani Viber na naprednim opcijama koje podrazumevaju sledeće stvari:
+Hakovani modovani Viber sa naprednim opcijama koje podrazumevaju sledeće stvari:
 1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Destruktivne opcije)
 2. Mogućnost da vidide istoriju izmene poruke kao i vreme kada je izmenjena! (Destruktivne opcije)
 3. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona! (Destruktivne opcije)
