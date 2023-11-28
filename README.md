@@ -1,4 +1,3 @@
-Viber Plus Plus
 Hakovani modovani Viber na naprednim opcijama!
 To podrazumeva:
 1. "Destruktivne opcije" meni koji podraz
