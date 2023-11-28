@@ -12,4 +12,4 @@ Hakovani modovani Viber na naprednim opcijama koje podrazumevaju sledeće stvari
 11. Mogućnost da dodate do 1000000 ljudi u grupu sa brojevima! (rizik za ban)⛔️
 12. Mogućnost da uživate u Viberu bez reklama!
 13. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
-14. Očekujte još boja u kao i još novih funkcija u budućnosti ;)
+Očekujte još boja u kao i još novih funkcija u budućnosti ;)
