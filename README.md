@@ -4,8 +4,8 @@ Hakovani modovani Viber sa naprednim opcijama koje podrazumevaju sledeće stvari
 3. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona! (Destruktivne opcije)
 4. Mogućnost da koristite Lucky Patcher za besplatnu kupovinu stikera! (Destruktivne opcije)
 5. Mogućnost da sakrijete neke delove Viber interfejsa! (Destruktivne opcije)
-6. Mogućnost da napravite od 1 do 200 anketa sa određenim tekstom odjednom! (Splinterov Trol Meni)
-7. Mogućnost da promenite vreme nestajućih poruka na bilo koji broj! (Splinterov Trol Meni)
+6. Mogućnost da napravite anketu od 1 do 200 polja! (noramlni limit je od 2 do 10)
+7. Mogućnost da stavite timer za nestajuće poruke na 1 sekundu! (normalni minimum je 10 sekundi)
 8. Mogućnost da napravite svoje stiker pakovanje sa do 99 stikera!
 9. Mogućnost da prosledite bilo koju poruku do 1000000 ljudi odjednom! (rizik za ban)⛔️
 10. Mogućnost da dodate do 100 ljudi u poziv! (rizik za ban)⛔️
