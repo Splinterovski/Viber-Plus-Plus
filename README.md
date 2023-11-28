@@ -1,4 +1,4 @@
-Hakovani modovani Viber sa naprednim opcijama koje podrazumevaju sledeće stvari:
+Modovani Viber sa naprednim opcijama koje podrazumevaju sledeće stvari:
 1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Destruktivne opcije, radi samo u privatnim chatovima i grupama sa brojevima)
 2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Destruktivne opcije, radi svuda)
 3. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona! (Destruktivne opcije)
@@ -17,3 +17,5 @@ Hakovani modovani Viber sa naprednim opcijama koje podrazumevaju sledeće stvari
 17. Mogućnost da uživate u Viberu bez reklama!
 18. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 19. Očekujte još boja u kao i još novih funkcija u budućnosti ;) 🔜🔛🔝🟠🟡🟢🔵🟣🟤
+
+Verzija aplikacije: 18.1.1.0
