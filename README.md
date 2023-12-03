@@ -4,7 +4,7 @@ Viber++ opcije podrazumevaju sledeće stvari:
 3. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona! (Destruktivne opcije)
 5. Mogućnost da sakrijete neke delove Viber interfejsa! (Destruktivne opcije)
 6. Mogućnost da napravite anketu od 1 do 200 polja! (noramlni limit je od 2 do 10)
-7. Mogućnost da stavite timer za nestajuće poruke na 1 sekundu! (normalni minimum je 10 sekundi)
+7. Mogućnost da stavite timer za nestajanje poruke na 1 sekundu! (normalni minimum je 10 sekundi)
 9. Mogućnost da prosledite bilo koju poruku do 1000000 ljudi odjednom! (rizik za ban)⛔️
 10. Mogućnost da dodate do 100 ljudi u poziv! (rizik za ban)⛔️
 11. Mogućnost da dodate do 1000000 ljudi u grupu sa brojevima! (rizik za ban)⛔️
