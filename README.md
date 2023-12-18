@@ -18,6 +18,6 @@ Viber++ opcije podrazumevaju sledeće stvari:
 19. Mogućnost da čitate poruke u banovanim zajednicama i kanalima!
 20. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
-Očekujte još boja u kao i još novih funkcija u budućnosti ;) 🔜🔛🔝🟠🟡🟢🔵🟣🟤
+Očekujte još novih funkcija u budućnosti ;) 🔜🔛🔝
 
 Verzija aplikacije: 18.1.1.0
