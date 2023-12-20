@@ -5,9 +5,9 @@ Viber++ opcije podrazumevaju sledeće stvari:
 5. Mogućnost da sakrijete neke delove Viber interfejsa! (Destruktivne opcije)
 6. Mogućnost da napravite anketu od 1 do 200 polja! (noramlni limit je od 2 do 10)
 7. Mogućnost da stavite timer za nestajanje poruke na 1 sekundu! (normalni minimum je 10 sekundi)
-9. Mogućnost da prosledite bilo koju poruku do 1000000 ljudi odjednom! (rizik za ban)⛔️
-10. Mogućnost da dodate do 100 ljudi u poziv! (rizik za ban)⛔️
-11. Mogućnost da dodate do 1000000 ljudi u grupu sa brojevima! (delimično testirano + rizik za ban)⛔️
+9. Mogućnost da prosledite bilo koju poruku do 1000000 ljudi odjednom! (rizik za ban⛔️)
+10. Mogućnost da dodate do 100 ljudi u poziv! (rizik za ban⛔️)
+11. Mogućnost da dodate do 1000000 ljudi u grupu sa brojevima! (delimično testirano + rizik za ban⛔️)
 12. Mogućnost da napravite svoje stiker pakovanje sa do 99 stikera! (normalni limit je 24)
 13. Mogućnost da pošaljete poruku do 10000 karaktera dugačku! (normalni limit je 7000)
 14. Mogućnost da stavite opis zajednice/kanala do 2000 karaktera! (noramlni limit je 250)
