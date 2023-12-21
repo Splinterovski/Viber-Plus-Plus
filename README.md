@@ -16,7 +16,8 @@ Viber++ opcije podrazumevaju sledeće stvari:
 17. Mogućnost da uživate u Viberu bez reklama!
 18. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
 19. Mogućnost da čitate poruke u banovanim zajednicama i kanalima!
-20. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
+20. Mogućnost da povežete Viber na Android Studio debugger i izmenjujete kod dok je Viber pokrenut! (ova opcija je namenjena programerima)
+21. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
 Očekujte još novih funkcija u budućnosti ;) 🔜🔛🔝
 
