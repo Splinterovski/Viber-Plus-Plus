@@ -1,7 +1,7 @@
 Viber++ opcije podrazumevaju sledeće stvari:
 1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Destruktivne opcije, radi samo u privatnim chatovima i grupama sa brojevima)
 2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Destruktivne opcije, radi svuda)
-3. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona! (Destruktivne opcije)
+3. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona kao i da je ponovo vratite! (Destruktivne opcije)
 5. Mogućnost da sakrijete neke delove Viber interfejsa! (Destruktivne opcije)
 6. Mogućnost da napravite anketu od 1 do 200 polja! (noramlni limit je od 2 do 10)
 7. Mogućnost da stavite timer za nestajanje poruke na 1 sekundu! (normalni minimum je 10 sekundi)
