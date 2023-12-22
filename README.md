@@ -23,6 +23,6 @@ Očekujte još novih funkcija u budućnosti ;) 🔜🔛🔝
 
 Verzija aplikacije: 18.1.1.0
 
-Originalni kreator moda tojest Destruktivnih opcija: Blue cat!
+Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat!
 
 https://4pda.to/forum/index.php?showtopic=236581&st=18600#entry49123574
