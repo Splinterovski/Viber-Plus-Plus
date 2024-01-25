@@ -21,6 +21,8 @@ Viber++ opcije podrazumevaju sledeće stvari:
 
 Očekujte još novih funkcija u budućnosti ;) 🔜🔛🔝
 
+NE očekujte da će Viber++ biti objavljen u javnost pre poziva od 20000 ljudi!!!
+
 Verzija aplikacije: 18.1.1.0
 
 Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat
