@@ -1,4 +1,4 @@
-Viber++ opcije podrazumevaju sledeće stvari:
+Viber++ opcije podrazumevaju sledeće mogućnosti:
 1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Destruktivne opcije, radi samo u privatnim chatovima i grupama sa brojevima)
 2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Destruktivne opcije, radi svuda)
 3. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona kao i da je ponovo vratite! (Destruktivne opcije)
