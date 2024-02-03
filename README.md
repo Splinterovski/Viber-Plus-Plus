@@ -19,7 +19,7 @@ Viber++ opcije podrazumevaju sledeće stvari:
 20. Mogućnost da povežete Viber na Android Studio debugger i izmenjujete kod dok je Viber pokrenut! (ova opcija je namenjena programerima)
 21. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
-Očekujte još novih funkcija u budućnosti ;) 🔜🔛🔝
+Očekujte još novih funkcija u budućnosti! ;) 🔜🔛🔝
 
 NE očekujte da će Viber++ biti objavljen u javnost pre poziva od 20000 ljudi!!!
 
