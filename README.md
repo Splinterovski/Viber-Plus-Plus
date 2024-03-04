@@ -11,7 +11,7 @@ Viber++ opcije podrazumevaju sledeće mogućnosti:
 12. Mogućnost da napravite svoje stiker pakovanje sa do 99 stikera! (normalni limit je 24)
 13. Mogućnost da pošaljete poruku do 10000 karaktera dugačku! (normalni limit je 7000)
 14. Mogućnost da stavite opis zajednice/kanala do 2000 karaktera! (noramlni limit je 250)
-15. Mogućnost da pošaljete poruku bilo kojoj osobi! (pa čak i Dex Rocku)
+15. Mogućnost da pošaljete poruku bilo kojoj osobi! (čak i ako je toj osobi isključeno primanje privatnih poruka)
 16. Mogućnost da vidite bilo čiji broj! (ovo uglavnom radi samo ako ste vi superadmin a druga osoba običan admin)
 17. Mogućnost da uživate u Viberu bez reklama!
 18. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
