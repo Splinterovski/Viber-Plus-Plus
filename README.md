@@ -11,13 +11,14 @@ Viber++ opcije podrazumevaju sledeće mogućnosti:
 12. Mogućnost da napravite svoje stiker pakovanje sa do 99 stikera! (normalni limit je 24)
 13. Mogućnost da pošaljete poruku do 10000 karaktera dugačku! (normalni limit je 7000)
 14. Mogućnost da stavite opis zajednice/kanala do 2000 karaktera! (noramlni limit je 250)
-15. Mogućnost da pošaljete poruku bilo kojoj osobi! (čak i ako je toj osobi isključeno primanje privatnih poruka)
-16. Mogućnost da vidite bilo čiji broj! (ovo uglavnom radi samo ako ste vi superadmin a druga osoba običan admin)
-17. Mogućnost da uživate u Viberu bez reklama!
-18. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
-19. Mogućnost da čitate poruke u banovanim zajednicama i kanalima!
-20. Mogućnost da povežete Viber na Android Studio debugger i izmenjujete kod dok je Viber pokrenut! (ova opcija je namenjena programerima)
-21. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
+15. Mogućnost da stavite ime grupe sa brojevima do 10000 karaktera! (normalni limit je 40)
+16. Mogućnost da pošaljete poruku bilo kojoj osobi! (čak i ako je toj osobi isključeno primanje privatnih poruka)
+17. Mogućnost da vidite bilo čiji broj! (ovo uglavnom radi samo ako ste vi superadmin a druga osoba običan admin)
+18. Mogućnost da uživate u Viberu bez reklama!
+19. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
+20. Mogućnost da čitate poruke u banovanim zajednicama i kanalima!
+21. Mogućnost da povežete Viber na Android Studio debugger i izmenjujete kod dok je Viber pokrenut! (ova opcija je namenjena programerima)
+22. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
 Očekujte još novih funkcija u budućnosti! ;) 🔜🔛🔝
 
