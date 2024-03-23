@@ -1,3 +1,6 @@
+⚠️𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥⚠️
+Ja ne odgovaram za bilo kakvu štetu nanetu vašem Viber nalogu ili slično, ovu aplikaciju instalirate na sopstvenu odgovornost...upozorio sam vas!😁
+
 Viber++ opcije podrazumevaju sledeće mogućnosti:
 1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Destruktivne opcije, radi samo u privatnim chatovima i grupama sa brojevima)
 2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Destruktivne opcije, radi svuda)
@@ -21,8 +24,6 @@ Viber++ opcije podrazumevaju sledeće mogućnosti:
 22. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
 Očekujte još novih funkcija u budućnosti! ;) 🔜🔛🔝
-
-NE očekujte da će Viber++ biti objavljen u javnost pre poziva od 20000 ljudi!!!
 
 Verzija aplikacije: 18.1.1.0
 
