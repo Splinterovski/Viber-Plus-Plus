@@ -31,3 +31,4 @@ Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat
 
 Njegov profil na 4pda:
 https://4pda.to/forum/index.php?showuser=2084748
+![FloatingModMenuIcon](https://github.com/Splinterovski/Viber-Plus-Plus/assets/89694006/83b6bd7b-ec6c-4a71-a1b3-2a2a5cb7694e)
