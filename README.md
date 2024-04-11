@@ -20,10 +20,10 @@ Viber++ opcije podrazumevaju sledeće mogućnosti:
 16. Mogućnost da stavite ime grupe sa brojevima do 10000 karaktera! (normalni limit je 40)
 17. Mogućnost da pošaljete poruku bilo kojoj osobi! (čak i ako je toj osobi isključeno primanje privatnih poruka)
 18. Mogućnost da vidite bilo čiji broj u zajednici/kanalu! (vi morate biti superadmin a druga osoba bar običan admin)
-19. Mogućnost da uživate u Viberu bez reklama!
-20. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
-21. Mogućnost da čitate poruke u banovanim zajednicama i kanalima!
-22. Mogućnost da povežete Viber na Android Studio debugger i izmenjujete kod dok je Viber pokrenut! (ova opcija je namenjena programerima)
+19. Mogućnost da vidite nečiju profilnu u celosti čak i ako nemate broj! (kvadratni oblik profilne)
+20. Mogućnost da uživate u Viberu bez reklama!
+21. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
+22. Mogućnost da čitate poruke u banovanim zajednicama i kanalima!
 23. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
 Očekujte još novih funkcija u budućnosti! ;) 🔜🔛🔝
