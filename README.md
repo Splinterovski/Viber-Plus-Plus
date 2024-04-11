@@ -30,7 +30,7 @@ Očekujte još novih funkcija u budućnosti! ;) 🔜🔛🔝
 
 Mod je baziran na Viber verziji 18.1.1.0
 
-Ovako Viber++ otprilike izgleda:![Example](https://github.com/Splinterovski/Viber-Plus-Plus/assets/89694006/d707c9bb-3f24-4b03-a89f-6557800e6d47)
+Ovako Viber++ otprilike izgleda u maslinastno zelenoj boji:![Example](https://github.com/Splinterovski/Viber-Plus-Plus/assets/89694006/d707c9bb-3f24-4b03-a89f-6557800e6d47)
 
 Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat. Njegov profil na 4PDA:
 https://4pda.to/forum/index.php?showuser=2084748
