@@ -35,21 +35,4 @@ Ovako Viber++ otprilike izgleda u maslinastno zelenoj boji:![Example](https://gi
 Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat. Njegov profil na 4PDA:
 https://4pda.to/forum/index.php?showuser=2084748
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 P. S. - Serb Games u nedelju u 3😉
