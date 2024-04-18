@@ -1,7 +1,7 @@
 ⚠️𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥⚠️
 Ja ne odgovaram za bilo kakvu štetu nanetu vašem Viber nalogu ili slično, ovu aplikaciju instalirate na sopstvenu odgovornost...upozorio sam vas!😁
 
-Viber++ opcije podrazumevaju sledeće mogućnosti:
+Viber Pro opcije podrazumevaju sledeće mogućnosti:
 1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Destruktivne opcije, radi samo u privatnim chatovima i grupama sa brojevima)
 2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Destruktivne opcije, radi svuda)
 3. Mogućnost da sprečite da vaš sagovornik vidi kada vi kucate! (Destruktivne opcije, radi svuda)
@@ -30,7 +30,7 @@ Očekujte još novih funkcija u budućnosti! ;) 🔜🔛🔝
 
 Mod je baziran na Viber verziji 18.1.1.0
 
-Ovako Viber++ otprilike izgleda u maslinastno zelenoj boji:![Example](https://github.com/Splinterovski/Viber-Plus-Plus/assets/89694006/d707c9bb-3f24-4b03-a89f-6557800e6d47)
+Ovako Viber Pro otprilike izgleda u maslinastno zelenoj boji:![Example](https://github.com/Splinterovski/Viber-Plus-Plus/assets/89694006/d707c9bb-3f24-4b03-a89f-6557800e6d47)
 
 Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat. Njegov profil na 4PDA:
 https://4pda.to/forum/index.php?showuser=2084748
