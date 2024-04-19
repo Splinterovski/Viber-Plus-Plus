@@ -28,7 +28,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 
 ☢️🔜Funkcije koje dolaze uskoro:
 1. -Floating mod menu!
-2. -Timebomb spammer!
+2. -Customizable timebomb!
 3. -Customizable vote poll!
 4. -Superadmin simulator!
 5. -Serb Games private server?🤔
