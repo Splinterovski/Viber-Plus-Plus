@@ -26,7 +26,11 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 22. Mogućnost da čitate poruke u banovanim zajednicama i kanalima!
 23. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
-Očekujte još novih funkcija u budućnosti! ;) 🔜🔛🔝
+Funkcije koje dolaze uskoro:
+1️⃣-Floating mod meni!
+2️⃣-Timebomb seconds spammer!
+3️⃣-Customizable vote poll!
+4️⃣-Can write anywhere!
 
 Mod je baziran na Viber verziji 18.1.1.0
 
