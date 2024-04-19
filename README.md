@@ -28,7 +28,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 
 Funkcije koje dolaze uskoro:
 1. -Floating mod meni!
-2. -Timebomb seconds spammer!
+2. -Timebomb spammer!
 3. -Customizable vote poll!
 4. -Can write anywhere!
 
