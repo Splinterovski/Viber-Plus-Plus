@@ -31,7 +31,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 2. -Customizable timebomb!
 3. -Customizable vote poll!
 4. -Superadmin simulator!
-5. -Mogućnost da znate kada je slikovna poruka obrisana?
+5. -Mogućnost da znate kada je slikovna poruka obrisana!
 6. -Serb Games private server?🤔
 
 Mod je baziran na Viber verziji 18.1.1.0
