@@ -31,7 +31,7 @@ Neke od ideja za novu verziju:
 2. -Customizable timebomb!
 3. -Customizable vote poll!
 4. -Superadmin simulator!
-5. -Mogućnost da znate kada je slikovna poruka obrisana!
+5. -Mogućnost da znate kada je slikovna ili video poruka obrisana!
 6. -Mogućnost da izmenite tuđe poruke!
 7. -Serb Games private server?🤔
 
