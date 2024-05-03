@@ -33,7 +33,8 @@ Neke od ideja za novu verziju:
 4. -Superadmin simulator!
 5. -Mogućnost da znate da li je i kada je slikovna ili video poruka obrisana!
 6. -Mogućnost da izmenite tuđe poruke!
-7. -Serb Games private server?🤔
+7. Mogućnost da vidite sekunde kada je poruka poslata/primljena!
+8. -Serb Games private server?🤔
 
 Mod je baziran na Viber verziji 18.1.1.0
 
