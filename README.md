@@ -27,14 +27,13 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 23. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
 Neke od ideja za novu verziju:
-1. -Floating mod menu!
-2. -Customizable timebomb!
-3. -Customizable vote poll!
-4. -Superadmin simulator!
-5. -Mogućnost da znate da li je i kada je slikovna ili video poruka obrisana!
-6. -Mogućnost da izmenite tuđe poruke!
-7. Mogućnost da vidite sekunde kada je poruka poslata/primljena!
-8. -Serb Games private server?🤔
+1. -Start floating mod menu on conversation start switch: -Customizable timebomb
+-Customizable vote poll!
+2. -Superadmin simulator!
+3. -Mogućnost da znate da li je i kada je slikovna ili video poruka obrisana!
+4. -Mogućnost da izmenite tuđe poruke!
+5. Mogućnost da vidite sekunde kada je poruka poslata/primljena!
+6. -Serb Games private server?🤔
 
 Mod je baziran na Viber verziji 18.1.1.0
 
