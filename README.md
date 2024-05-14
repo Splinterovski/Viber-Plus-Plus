@@ -27,9 +27,8 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 23. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
 Neke od ideja za novu verziju:
-1. -Invoke floating mod menu on conversation start switch: -Customizable timebomb!
--Customizable vote poll!
-2. -Superadmin simulator! (dodato u najnovijoj verziji✅️)
+1. -Mogućnost da umemorišete osobu sa custom profilnom!
+2. -Timebomb randomizer!
 3. -Mogućnost da znate da li je i kada je slikovna ili video poruka obrisana!
 4. -Mogućnost da izmenite tuđe poruke!
 5. Mogućnost da vidite sekunde kada je poruka poslata/primljena!
