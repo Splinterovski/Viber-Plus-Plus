@@ -27,11 +27,11 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 23. Tri potpuno nove teme boja na raspolaganju! Svetlo zelena, maslinastno zelena i haker crna!
 
 Neke od ideja za novu verziju:
-1. -Mogućnost da umemorišete osobu sa custom profilnom!
-2. -Mogućnost da znate da li je i kada je slikovna ili video poruka obrisana!
-3. -Mogućnost da izmenite tuđe poruke!
+1. Mogućnost da umemorišete osobu sa custom profilnom!
+2. Mogućnost da znate da li je i kada je slikovna ili video poruka obrisana!
+3. Mogućnost da izmenite tuđe poruke!
 4. Mogućnost da vidite sekunde kada je poruka poslata/primljena!
-5. -Serb Games private server?🤔
+5. Serb Games private server?🤔
 
 Mod je baziran na Viber verziji 18.1.1.0
 
@@ -41,6 +41,8 @@ Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat. Njegov prof
 https://4pda.to/forum/index.php?showuser=2084748
 
 Stvari koje su dodate u destruktivne opcije od strane mene:
-
+1. Customizable vote poll! (mogućnost da odredite početni broj polja ankete kao i njihov tekst)
+2. Customizable timebomb! (mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647)
+3. Superadmin simulator! (mogućnost da pišete bilo gde)
 
 P. S. - Serb Games u nedelju u 3😉
