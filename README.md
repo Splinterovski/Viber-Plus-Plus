@@ -39,8 +39,8 @@ Ovako Viber Pro otprilike izgleda u maslinastno zelenoj boji:![Example](https://
 
 Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat.
 Njegov profil na 4PDA:
-4pda.to/forum/index.php?showuser=2084748
-Njegova Telegram grupa: t.me/+JesZ0tRGOMozYWNi
+https://4pda.to/forum/index.php?showuser=2084748
+Njegova Telegram grupa: https://t.me/+JesZ0tRGOMozYWNi
 
 
 Stvari koje su dodate u destruktivne opcije od strane mene:
