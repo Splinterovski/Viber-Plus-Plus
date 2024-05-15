@@ -45,4 +45,6 @@ Stvari koje su dodate u destruktivne opcije od strane mene:
 2. Customizable timebomb! (mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647)
 3. Superadmin simulator! (mogućnost da pišete bilo gde)
 
+Ako Viber kojim slučajem neće da vam se aktivira uvek možete probati aktivaciju preko ovog sajta: http://viber.uax.co/
+
 P. S. - Serb Games u nedelju u 3😉
