@@ -49,7 +49,7 @@ Stvari koje su dodate u destruktivne opcije od strane mene:
 1. Customizable vote poll! (mogućnost da odredite početni broj polja ankete kao i njihov tekst)
 2. Customizable timebomb! (mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647)
 3. Superadmin simulator! (mogućnost da pišete bilo gde)
-4. Spam mod! (mogućnost da spamujete bilo koji tekst u vidu tekstualne poruke)
+4. Spam mod! (mogućnost da spamujete bilo koju tekstualnu poruku)
 
 Ako Viber kojim slučajem neće da vam se aktivira uvek možete probati aktivaciju preko ovog sajta: http://viber.uax.co/
 
