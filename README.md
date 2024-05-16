@@ -1,3 +1,5 @@
+![ViberProLogo](https://github.com/Splinterovski/Viber-Pro/assets/89694006/f4e41d5b-5159-4773-a3bd-6a11462203b3)
+
 ⚠️𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥⚠️
 Ja ne odgovaram za bilo kakvu štetu nanetu vašem Viber nalogu ili slično, ovu aplikaciju instalirate na sopstvenu odgovornost...upozorio sam vas!😁
 
