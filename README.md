@@ -61,6 +61,6 @@ Stvari koje su dodate u destruktivne opcije od strane mene:
 
 Ako Viber kojim slučajem neće da vam se aktivira uvek možete probati aktivaciju preko ovog sajta: http://viber.uax.co/
 
-P. S. - Serb Games u nedelju u 3😉
-
 Download link: https://www.mediafire.com/file/mmrmj4znxic0l2r/Viber_Pro_18.1.1.0.apk/file
+
+P. S. - Serb Games u nedelju u 3😉
