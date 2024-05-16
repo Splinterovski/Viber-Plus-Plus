@@ -8,11 +8,11 @@ Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google P
 Istorija ćaskanja se NE MOŽE preneti sa originalnog na modovani Viber!
 
 Viber Pro opcije podrazumevaju sledeće mogućnosti:
-1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Destruktivne opcije, radi samo u privatnim chatovima i grupama sa brojevima)
-2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Destruktivne opcije, radi svuda)
-3. Mogućnost da sprečite da vaš sagovornik vidi kada vi kucate! (Destruktivne opcije, radi svuda)
-4. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona kao i da je ponovo vratite! (Destruktivne opcije)
-5. Mogućnost da sakrijete neke delove Viber interfejsa! (Destruktivne opcije)
+1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Credit to Blue cat, radi samo u privatnim chatovima i grupama sa brojevima)
+2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Credit to Blue cat, radi svuda)
+3. Mogućnost da sprečite da vaš sagovornik vidi kada vi kucate! (Credit to Blue cat, radi svuda)
+4. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona kao i da je ponovo vratite! (Credit to Blue cat)
+5. Mogućnost da sakrijete neke delove Viber interfejsa! (Credit to Blue cat)
 6. Mogućnost da napravite anketu od 1 do 200 polja! (noramlni limit je od 2 do 10)
 7. Mogućnost da stavite timer za nestajanje poruke na bilo koju sekundu! (pročitati 2. članak pri kraju za više informacija)
 8. Mogućnost da screenshotujete ekran dok su uključene nestajuće poruke a da vaš sagovornik to ne zna!
@@ -54,7 +54,7 @@ https://t.me/+JesZ0tRGOMozYWNi
 
 Stvari koje su dodate u destruktivne opcije od strane mene:
 1. Customizable vote poll! (mogućnost da odredite početni broj polja ankete kao i njihov tekst)
-2. Customizable timebomb! (mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 što je jednako 3550 nedelja)
+2. Customizable timebomb! (mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 tojest 3550 nedelja)
 3. Superadmin simulator! (mogućnost da pišete bilo gde)
 4. Easy spam mod! (mogućnost da lako spamujete bilo koju tekstualnu poruku)
 
