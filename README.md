@@ -1,4 +1,4 @@
-![ViberProLogo](https://github.com/Splinterovski/Viber-Pro/assets/89694006/f4e41d5b-5159-4773-a3bd-6a11462203b3)
+![ViberProLogo](https://github.com/Splinterovski/Viber-Pro/assets/89694006/a61df306-d14a-4b67-aeac-062cd36aa2dc)
 
 ⚠️𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥⚠️
 Ja ne odgovaram za bilo kakvu štetu nanetu vašem Viber nalogu ili slično, ovu aplikaciju instalirate na sopstvenu odgovornost...upozorio sam vas!😁
@@ -49,14 +49,14 @@ Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat.
 Njegov profil na 4PDA:
 https://4pda.to/forum/index.php?showuser=2084748
 
-Njegova Telegram grupa: https://t.me/+JesZ0tRGOMozYWNi
-
+Njegova Telegram grupa:
+https://t.me/+JesZ0tRGOMozYWNi
 
 Stvari koje su dodate u destruktivne opcije od strane mene:
 1. Customizable vote poll! (mogućnost da odredite početni broj polja ankete kao i njihov tekst)
 2. Customizable timebomb! (mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 što je jednako 3550 nedelja)
 3. Superadmin simulator! (mogućnost da pišete bilo gde)
-4. Easy spam mod! (mogućnost da spamujete bilo koju tekstualnu poruku)
+4. Easy spam mod! (mogućnost da lako spamujete bilo koju tekstualnu poruku)
 
 Ako Viber kojim slučajem neće da vam se aktivira uvek možete probati aktivaciju preko ovog sajta: http://viber.uax.co/
 
