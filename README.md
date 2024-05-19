@@ -25,7 +25,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 15. Mogućnost da stavite opis zajednice/kanala do 2000 karaktera! (noramlni limit je 250)
 16. Mogućnost da stavite ime grupe sa brojevima do 10000 karaktera! (normalni limit je 40)
 17. Mogućnost da pošaljete poruku bilo kojoj osobi! (čak i ako je toj osobi isključeno primanje privatnih poruka)
-18. Mogućnost da vidite bilo čiji broj u zajednici/kanalu! (vi morate biti superadmin a druga osoba bar običan admin)
+18. Mogućnost da vidite bilo čiji broj u zajednici/kanalu!
 19. Mogućnost da vidite nečiju profilnu u celosti čak i ako nemate broj! (kvadratni oblik profilne umesto okruglog)
 20. Mogućnost da uživate u Viberu bez reklama!
 21. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
