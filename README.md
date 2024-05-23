@@ -60,6 +60,6 @@ Stvari koje su dodate u destruktivne opcije od strane mene:
 
 Ako Viber kojim slučajem neće da vam se aktivira uvek možete probati aktivaciju preko ovog sajta: http://viber.uax.co/
 
-Download link: coming soon!
+Download link: uskoro!
 
 P. S. - Serb Games u nedelju u 3😉
