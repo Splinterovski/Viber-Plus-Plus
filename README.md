@@ -36,7 +36,8 @@ Neke od ideja za novu verziju:
 3. Mogućnost da izmenite tuđe poruke!
 4. Mogućnost da vidite sekunde kada je poruka poslata/primljena!
 5. Mogućnost da vidite obrisane poruke u zajednicama/kanalima!
-6. Serb Games private server?🤔
+6. Mogućnost da brzo i lako spamujete random brojeve!
+7. Serb Games private server?🤔
 
 Mod je baziran na Viber verziji 18.1.1.0
 
