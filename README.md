@@ -54,8 +54,6 @@ Stvari koje su dodate u destruktivne opcije od strane mene:
 4. Easy spam mod! (mogućnost da lako spamujete bilo koju tekstualnu poruku)
 5. ⚠️VAŽNO⚠️ - Morate odmah na početku staviti broj glasačkih polja na bilo šta od 0 do 200 i vreme u sekundama na bilo koji ceo broj u Destruktivnim opcijama da bi uopšte mogli da uđete u chat sa bilo kim!
 
-Ako Viber kojim slučajem neće da vam se aktivira uvek možete probati aktivaciju preko ovog sajta: http://viber.uax.co/
-
 Download link: uskoro!
 
 P. S. - Serb Games u nedelju u 3😉
