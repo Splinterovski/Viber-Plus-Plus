@@ -32,12 +32,8 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 
 Neke od ideja za novu verziju:
 1. Mogućnost da umemorišete osobu sa custom profilnom!
-2. Mogućnost da znate da li je i kada je slikovna ili video poruka obrisana!
-3. Mogućnost da izmenite tuđe poruke!
-4. Mogućnost da vidite sekunde kada je poruka poslata/primljena!
-5. Mogućnost da vidite obrisane poruke u zajednicama/kanalima!
-6. Mogućnost da brzo i lako spamujete random brojeve!
-7. Serb Games private server?🤔
+2. Mogućnost da izmenite tuđe poruke!
+3. Serb Games private server?🤔
 
 Mod je baziran na Viber verziji 18.1.1.0
 
