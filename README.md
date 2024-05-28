@@ -17,8 +17,8 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 6. Mogućnost da napravite anketu od 1 do 200 polja! (noramlni limit je od 2 do 10)
 7. Mogućnost da stavite timer za nestajanje poruke na bilo koju sekundu! (pročitati 2. članak pri kraju za više informacija)
 8. Mogućnost da screenshotujete ekran dok su uključene nestajuće poruke a da vaš sagovornik to ne zna!
-9. Mogućnost da prosledite bilo koju poruku do 10000 ljudi odjednom! (normalni limit je 8, postepeno se šalje, rizik za ban⛔️)
-10. Mogućnost da dodate do 10000 ljudi u grupu sa brojevima! (normalni limit je 250, maksiamlno možete dodati 50 ljudi odjednon, sve preko toga se neće dodati, rizik za ban⛔️)
+9. Mogućnost da prosledite bilo koju poruku do 10000 ljudi odjednom! (normalni limit je 8, postepeno se šalje)
+10. Mogućnost da dodate do 10000 ljudi u grupu sa brojevima! (normalni limit je 250)
 11. Mogućnost da napravite svoje stiker pakovanje sa do 99 stikera! (normalni limit je 24)
 12. Mogućnost da pošaljete poruku dugačku do 10000 karaktera! (normalni limit je 7000)
 13. Mogućnost da stavite opis kanala/zajednice do 2000 karaktera! (noramlni limit je 250)
