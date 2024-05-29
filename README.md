@@ -28,7 +28,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 17. Mogućnost da vidite nečiju profilnu u celosti čak i ako nemate broj! (kvadratni oblik profilne umesto okruglog)
 18. Mogućnost da uživate u Viberu bez reklama!
 19. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
-20. Mogućnost da čitate poruke u banovanim zajednicama i kanalima!
+20. Mogućnost da čitate poruke u banovanim zajednicama i kanalima čak iako niste admin/superadmin!
 
 Neke od ideja za novu verziju:
 1. Mogućnost da umemorišete osobu sa custom profilnom!
