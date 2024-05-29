@@ -15,7 +15,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 4. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona kao i da je ponovo vratite! (Credit to Blue cat)
 5. Mogućnost da sakrijete neke delove Viber interfejsa! (Credit to Blue cat)
 6. Mogućnost da napravite anketu od 1 do 200 polja! (noramlni limit je od 2 do 10)
-7. Mogućnost da stavite timer za nestajanje poruke na bilo koju sekundu! (pročitati 2. članak pri kraju za više informacija)
+7. Mogućnost da stavite timer za nestajanje poruke na bilo koju sekundu! (Splinterbug)
 8. Mogućnost da screenshotujete ekran dok su uključene nestajuće poruke a da vaš sagovornik to ne zna!
 9. Mogućnost da prosledite bilo koju poruku do 10000 ljudi odjednom! (normalni limit je 8, postepeno se šalje)
 10. Mogućnost da dodate do 10000 ljudi u grupu sa brojevima! (normalni limit je 250)
@@ -47,11 +47,11 @@ https://4pda.to/forum/index.php?showuser=2084748
 Njegova Telegram grupa:
 https://t.me/+JesZ0tRGOMozYWNi
 
-Stvari koje su dodate u destruktivne opcije od strane mene:
-1. Customizable vote poll! (mogućnost da odredite početni broj polja ankete kao i njihov tekst)
-2. Customizable timebomb! (mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 tojest 3550 nedelja)
-3. Superadmin simulator! (mogućnost da pišete bilo gde)
-4. Easy spam mod! (mogućnost da lako spamujete bilo koju tekstualnu poruku)
+Splinterbug podrazumeva sledeće mogućnosti:
+1. Mogućnost da odredite početni broj polja ankete kao i njihov tekst!
+2. Mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 tojest 3550 nedelja!
+3. Mogućnost da pišete bilo gde!
+4. Mogućnost da brzo i lako spamujete bilo koju tekstualnu poruku!
 5. ⚠️VAŽNO⚠️ - Morate odmah na početku staviti broj glasačkih polja na bilo šta od 0 do 200 i vreme u sekundama na bilo koji ceo broj u Destruktivnim opcijama da bi uopšte mogli da uđete u chat sa bilo kim!
 
 Download link: uskoro!
