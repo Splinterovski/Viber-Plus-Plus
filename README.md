@@ -52,7 +52,8 @@ Splinterbug podrazumeva sledeće mogućnosti:
 2. Mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 tojest 3550 nedelja!
 3. Mogućnost da pišete bilo gde!
 4. Mogućnost da brzo i lako spamujete bilo koju tekstualnu poruku!
-5. ⚠️VAŽNO⚠️ - Morate odmah na početku staviti broj glasačkih polja na bilo šta od 0 do 200 i vreme u sekundama na bilo koji ceo broj u Destruktivnim opcijama da bi uopšte mogli da uđete u chat sa bilo kim!
+
+⚠️VAŽNO⚠️ - Morate odmah na početku staviti broj glasačkih polja na bilo šta od 0 do 200 i vreme u sekundama na bilo koji ceo broj u Destruktivnim opcijama da bi uopšte mogli da uđete u chat sa bilo kim!
 
 Download link: uskoro!
 
