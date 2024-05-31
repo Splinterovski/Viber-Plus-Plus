@@ -10,7 +10,7 @@ Istorija ćaskanja se NE MOŽE preneti sa originalnog na modovani Viber!
 
 Viber Pro opcije podrazumevaju sledeće mogućnosti:
 1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Credit to Blue cat, radi samo u privatnim chatovima i grupama sa brojevima)
-2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Credit to Blue cat, radi svuda)
+2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Credit to Blue cat, radi svuda ako je poruka isporučena)
 3. Mogućnost da sprečite da vaš sagovornik vidi kada vi kucate! (Credit to Blue cat, radi svuda)
 4. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona kao i da je ponovo vratite! (Credit to Blue cat)
 5. Mogućnost da sakrijete neke delove Viber interfejsa! (Credit to Blue cat)
