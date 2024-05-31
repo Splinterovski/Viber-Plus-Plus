@@ -35,11 +35,11 @@ Neke od ideja za novu verziju:
 2. Mogućnost da izmenite tuđe poruke!
 3. Serb Games private server?🤔
 
-Mod je baziran na Viber verziji 18.1.1.0
+Mod je baziran na Viber verziji 21.2.1.0
 
 Ovako Viber Pro otprilike izgleda u maslinastno zelenoj boji:![Example](https://github.com/Splinterovski/Viber-Plus-Plus/assets/89694006/d707c9bb-3f24-4b03-a89f-6557800e6d47)
 
-Originalni kreator mod menija tojest Destruktivnih opcija: Blue cat.
+Originalni kreator mod menija: Blue cat
 
 Njegov profil na 4PDA:
 https://4pda.to/forum/index.php?showuser=2084748
