@@ -14,21 +14,23 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 3. Mogućnost da sprečite da vaš sagovornik vidi kada vi kucate! (Credit to Blue cat, radi svuda)
 4. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona kao i da je ponovo vratite! (Credit to Blue cat)
 5. Mogućnost da sakrijete neke delove Viber interfejsa! (Credit to Blue cat)
-6. Mogućnost da u potpunosti customizujete ankete za glasanje! (Splinterbug)
-7. Mogućnost da stavite timer za nestajanje poruke na bilo koju sekundu! (Splinterbug)
-8. Mogućnost da screenshotujete ekran dok su uključene nestajuće poruke a da vaš sagovornik to ne zna!
-9. Mogućnost da prosledite bilo koju poruku do 10000 ljudi odjednom! (normalni limit je 8, postepeno se šalje)
-10. Mogućnost da dodate do 10000 ljudi u grupu sa brojevima! (normalni limit je 250)
-11. Mogućnost da napravite svoje stiker pakovanje sa do 99 stikera! (normalni limit je 24)
-12. Mogućnost da pošaljete poruku dugačku do 10000 karaktera! (normalni limit je 7000)
-13. Mogućnost da stavite opis kanala/zajednice do 2000 karaktera! (noramlni limit je 250)
-14. Mogućnost da stavite ime grupe sa brojevima do 10000 karaktera! (normalni limit je 40)
-15. Mogućnost da pošaljete poruku bilo kojoj osobi! (čak i ako je toj osobi isključeno primanje privatnih poruka)
-16. Mogućnost da vidite bilo čiji broj u kanalu/zajednici!
-17. Mogućnost da vidite nečiju profilnu u celosti čak i ako nemate broj! (kvadratni oblik profilne umesto okruglog)
-18. Mogućnost da uživate u Viberu bez reklama!
-19. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
-20. Mogućnost da čitate poruke u banovanim zajednicama i kanalima čak iako niste admin/superadmin!
+6. Mogućnost da u potpunosti customizujete ankete za glasanje! (Splinterbug-1)
+7. Mogućnost da stavite timer za nestajanje poruke na bilo koju sekundu! (Splinterbug-2)
+8. Superadmin simulator! (Splinterbug-3)
+9. Easy spam! (Splinterbug-4)
+10. Mogućnost da screenshotujete ekran dok su uključene nestajuće poruke a da vaš sagovornik to ne zna!
+11. Mogućnost da prosledite bilo koju poruku do 10000 ljudi odjednom! (normalni limit je 8, postepeno se šalje)
+12. Mogućnost da dodate do 10000 ljudi u grupu sa brojevima! (normalni limit je 250)
+13. Mogućnost da napravite svoje stiker pakovanje sa do 99 stikera! (normalni limit je 24)
+14. Mogućnost da pošaljete poruku dugačku do 10000 karaktera! (normalni limit je 7000)
+15. Mogućnost da stavite opis kanala/zajednice do 2000 karaktera! (noramlni limit je 250)
+16. Mogućnost da stavite ime grupe sa brojevima do 10000 karaktera! (normalni limit je 40)
+17. Mogućnost da pošaljete poruku bilo kojoj osobi! (čak i ako je toj osobi isključeno primanje privatnih poruka)
+18. Mogućnost da vidite bilo čiji broj u kanalu/zajednici!
+19. Mogućnost da vidite nečiju profilnu u celosti čak i ako nemate broj! (kvadratni oblik profilne umesto okruglog)
+20. Mogućnost da uživate u Viberu bez reklama!
+21. Mogućnost da pošaljete bilo koju vrstu fajla! (pa čak i .apk i .exe)
+22. Mogućnost da čitate poruke u banovanim zajednicama i kanalima čak iako niste admin/superadmin!
 
 Neke od ideja za novu verziju:
 1. Mogućnost da umemorišete osobu sa custom profilnom!
