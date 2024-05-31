@@ -14,7 +14,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 3. Mogućnost da sprečite da vaš sagovornik vidi kada vi kucate! (Credit to Blue cat, radi svuda)
 4. Mogućnost da sačuvate istoriju ćaskanja direktno na memoriju vašeg telefona kao i da je ponovo vratite! (Credit to Blue cat)
 5. Mogućnost da sakrijete neke delove Viber interfejsa! (Credit to Blue cat)
-6. Mogućnost da napravite anketu od 1 do 200 polja! (noramlni limit je od 2 do 10)
+6. Mogućnost da u potpunosti customizujete ankete za glasanje! (Splinterbug)
 7. Mogućnost da stavite timer za nestajanje poruke na bilo koju sekundu! (Splinterbug)
 8. Mogućnost da screenshotujete ekran dok su uključene nestajuće poruke a da vaš sagovornik to ne zna!
 9. Mogućnost da prosledite bilo koju poruku do 10000 ljudi odjednom! (normalni limit je 8, postepeno se šalje)
