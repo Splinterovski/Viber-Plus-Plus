@@ -32,11 +32,6 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 21. Mogućnost da pošaljete bilo koju vrstu fajla! (npr .apk ili .exe)
 22. Mogućnost da čitate poruke u banovanim zajednicama i kanalima čak iako niste admin/superadmin!
 
-Neke od ideja za novu verziju:
-1. Mogućnost da umemorišete osobu sa custom profilnom!
-2. Mogućnost da izmenite tuđe poruke!
-3. Serb Games private server?🤔
-
 Mod je baziran na Viber verziji 21.2.1.0
 
 Ovako Viber Pro otprilike izgleda u maslinastno zelenoj boji:![Example](https://github.com/Splinterovski/Viber-Plus-Plus/assets/89694006/d707c9bb-3f24-4b03-a89f-6557800e6d47)
@@ -54,6 +49,7 @@ Splinterbug podrazumeva sledeće mogućnosti:
 2. Mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 tojest 3550 nedelja!
 3. Mogućnost da pišete bilo gde!
 4. Mogućnost da brzo i lako spamujete bilo koju tekstualnu poruku!
+5. Mogućnost da izmenite tuđe poruke! (coming soon)
 
 ⚠️VAŽNO⚠️ - Morate odmah na početku staviti sve Splinterbug opcije na podrazumevane vrednosti da bi uopšte mogli da uđete u chat sa bilo kim!
 
