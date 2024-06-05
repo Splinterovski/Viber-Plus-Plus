@@ -47,9 +47,10 @@ https://t.me/+JesZ0tRGOMozYWNi
 Splinterbug podrazumeva sledeće mogućnosti:
 1. Mogućnost da odredite početni broj polja ankete kao i njihov tekst!
 2. Mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 tojest 3550 nedelja!
-3. Mogućnost da pišete bilo gde!
-4. Mogućnost da brzo i lako spamujete bilo koju tekstualnu poruku!
-5. Mogućnost da izmenite tuđe poruke! (coming soon)
+3. Mogućnost da brzo i lako spamujete bilo koju tekstualnu poruku!
+4. Mogućnost da pišete bilo gde!
+5. Mogućnost da odgovorite nekoj osobi u privatno na njenu poruku u kanalu/zajednici!
+6. Mogućnost da izmenite tuđe poruke! (coming soon)
 
 ⚠️VAŽNO⚠️ - Morate odmah na početku staviti sve Splinterbug opcije na podrazumevane vrednosti da bi uopšte mogli da uđete u chat sa bilo kim!
 
