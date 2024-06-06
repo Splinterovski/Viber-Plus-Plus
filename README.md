@@ -31,6 +31,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 20. Mogućnost da uživate u Viberu bez reklama!
 21. Mogućnost da pošaljete bilo koju vrstu fajla! (npr .apk ili .exe)
 22. Mogućnost da čitate poruke u banovanim zajednicama i kanalima čak iako niste admin/superadmin!
+23. Mogućnost da pinujete bilo koju vrstu poruke!
 
 Mod je baziran na Viber verziji 21.2.1.0
 
