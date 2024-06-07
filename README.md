@@ -4,6 +4,7 @@
 Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google Playa.
 Istorija ćaskanja se NE MOŽE preneti sa originalnog na modovani Viber!
 
+
 Viber Pro opcije podrazumevaju sledeće mogućnosti:
 1. Mogućnost da vidite obrisane poruke kao i vreme kada je poruka obrisana! (Credit to Blue cat, radi samo u privatnim chatovima i grupama sa brojevima)
 2. Mogućnost da vidite istoriju izmene poruke kao i vreme kada je izmenjena! (Credit to Blue cat, radi svuda ako je poruka isporučena)
