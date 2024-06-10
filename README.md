@@ -52,7 +52,7 @@ Splinterbug podrazumeva sledeće mogućnosti:
 7. Mogućnost da izmenite tuđe poruke! (coming soon)
 8. Serb Games private server. (coming soon)
 
-⚠️VAŽNO⚠️ - Morate odmah na početku staviti sve Splinterbug opcije na podrazumevane vrednosti da bi uopšte mogli da uđete u chat sa bilo kim!
+⚠️VAŽNO⚠️ - Morate odmah na početku staviti sve brojčane Splinterbug opcije na podrazumevane vrednosti da bi uopšte mogli da uđete u chat sa bilo kim!
 
 Download link: uskoro!
 
