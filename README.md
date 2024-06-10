@@ -29,6 +29,7 @@ Viber Pro opcije podrazumevaju sledeće mogućnosti:
 22. Mogućnost da čitate poruke u banovanim zajednicama i kanalima čak iako niste admin/superadmin!
 23. Mogućnost da pinujete bilo koju vrstu poruke!
 24. Mogućnost da odgovorite na bilo koju vrstu poruke!
+25. Mogućnost da vidite izvorni kod bilo koje poruke!
 
 Mod je baziran na Viber verziji 21.2.1.0
 
