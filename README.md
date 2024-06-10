@@ -47,8 +47,10 @@ Splinterbug podrazumeva sledeće mogućnosti:
 2. Mogućnost da stavite vreme u sekundama od -2147483647 do 2147483647 tojest 3550 nedelja!
 3. Mogućnost da brzo i lako spamujete bilo koju tekstualnu poruku!
 4. Mogućnost da pišete bilo gde!
-5. Mogućnost da odgovorite nekoj osobi u privatno na njenu poruku u kanalu/zajednici!
-6. Mogućnost da izmenite tuđe poruke! (coming soon)
+5. Mogućnost da pretvorite zajednicu u kanal!
+6. Mogućnost da odgovorite nekoj osobi u privatno na njenu poruku u kanalu/zajednici!
+7. Mogućnost da izmenite tuđe poruke! (coming soon)
+8. Serb Games private server. (coming soon)
 
 ⚠️VAŽNO⚠️ - Morate odmah na početku staviti sve Splinterbug opcije na podrazumevane vrednosti da bi uopšte mogli da uđete u chat sa bilo kim!
 
